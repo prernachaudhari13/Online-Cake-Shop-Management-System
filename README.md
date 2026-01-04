@@ -129,7 +129,7 @@ Cake-Shop-Management-System/
 
 ---
 
-## 🔐 Default Login (Optional)
+## 🔐 Default Login
 
 **Admin**
 - Username: admin
